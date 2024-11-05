@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyStopWatch</string>
+    <string name="button_start">시작</string>
+    <string name="button_restart">재시작</string>
+    <string name="button_stop">정지</string>
+
+</resources>
