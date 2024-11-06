@@ -2,10 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="blue">#133E87</color>
     <color name="red">#C62E2E</color>
     <color name="green">#399918</color>
     <color name="button_start">#5E1675</color>
     <color name="button_stop">#DF2E38</color>
     <color name="button_restart">#FFE162</color>
+    <!--update용 색상 추가-->
+    <color name="blue">#0059FF</color>
+
 </resources>

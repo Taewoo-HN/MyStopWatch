@@ -4,4 +4,7 @@
     <string name="button_restart">재시작</string>
     <string name="button_stop">정지</string>
 
+    <string name="btn_start">Start</string>
+    <string name="btn_restart">Clear</string>
+    <string name="btn_stop">Stop</string>
 </resources>
